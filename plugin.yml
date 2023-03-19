@@ -7,7 +7,7 @@ main: PMCommunity\Kurallar
 
 commands:
   kurallar:
-    description: Kurallar menüsünü açar.
+    description: Kurallar menüsünü gösterir.
     permission: kurallar.cmd
 permissions:
   kurallar.cmd:
