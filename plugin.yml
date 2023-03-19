@@ -1,0 +1,14 @@
+name: Kurallar
+description: Kurallar menüsü
+author: xRookieFight & PocketMine Community
+api: 4.0.0
+version: 1.0.0
+main: PMCommunity\Kurallar
+
+commands:
+  kurallar:
+    description: Kurallar menüsünü açar.
+    permission: kurallar.cmd
+permissions:
+  kurallar.cmd:
+    default: true
